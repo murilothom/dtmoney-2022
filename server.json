@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1480,
       "createdAt": "2022-10-28T10:12:53.345Z"
+    },
+    {
+      "category": "Comida",
+      "description": "Qualquer coisa",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2023-05-31T15:52:08.430Z",
+      "id": 4
+    },
+    {
+      "category": "Tecnologia",
+      "description": "Mouse",
+      "price": 100,
+      "type": "outcome",
+      "createdAt": "2023-05-31T16:00:08.469Z",
+      "id": 5
+    },
+    {
+      "category": "Trabalho",
+      "description": "Desenvolvimento de site",
+      "price": 9999,
+      "type": "income",
+      "createdAt": "2023-05-31T16:03:22.414Z",
+      "id": 6
     }
   ]
 }
