@@ -47,6 +47,14 @@
       "type": "income",
       "createdAt": "2023-05-31T16:03:22.414Z",
       "id": 6
+    },
+    {
+      "category": "Tecnologia",
+      "description": "Mouse Logitech",
+      "price": 9991,
+      "type": "outcome",
+      "createdAt": "2023-06-02T21:14:14.764Z",
+      "id": 7
     }
   ]
 }
