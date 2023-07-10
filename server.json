@@ -55,6 +55,14 @@
       "type": "outcome",
       "createdAt": "2023-06-02T21:14:14.764Z",
       "id": 7
+    },
+    {
+      "category": "Trabalho",
+      "description": "Desenvolvimento de site",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2023-07-10T13:11:25.801Z",
+      "id": 8
     }
   ]
 }
